@@ -1,10 +1,8 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+# Настройки IDE (PyCharm)
+.idea/
 
-# Virtual environments
-.venv
+# Python / uv файлы окружения
+.venv/
+__pycache__/
+.python-version
+uv.lock
