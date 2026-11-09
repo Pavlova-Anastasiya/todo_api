@@ -28,7 +28,7 @@
 
 1. **Клонируй репозиторий:**
    ```bash
-   git clone [https://github.com/Pavlova-Anastasiya/todo_api.git](https://github.com/Pavlova-Anastasiya/todo_api.git)
+   git clone https://github.com/Pavlova-Anastasiya/todo_api.git
    cd todo_api
    
 2. **Установи зависимости и настрой виртуальное окружение (рекомендуется использовать менеджер uv или стандартный venv):**
